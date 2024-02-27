@@ -36,7 +36,9 @@ The final output is a Pandas DataFrame containing Mi mobile details, including n
 **code**
 
 !pip install pandas
+
 !pip install requests
+
 !pip install bs4
 
 import pandas as pd
